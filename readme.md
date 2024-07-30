@@ -1,6 +1,6 @@
 ### README
 
-![Banner Image](once-upon-a-time-in-Dongbai/imgs/dongbei-wangshi-huge.png)
+![Banner Image](imgs/dongbei-wangshi-huge.png)
 
 # 东百往事——虎哥
 
